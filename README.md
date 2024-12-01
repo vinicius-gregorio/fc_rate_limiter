@@ -73,3 +73,10 @@ import (
 ### Exemplos
 1. Confira o exemplo em `examples/main.go` 
 2. Confira o `docker-compose.yml` para variaveis de ambiente.
+
+
+## Full Cycle:
+
+### Como executar o projeto?
+1. `docker compose up -d` 
+2. Faça requisições para `localhost:8080` 
